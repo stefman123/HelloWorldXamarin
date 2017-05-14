@@ -11,8 +11,7 @@
 namespace HelloWorld {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\stefa\\Documents\\Visual Studio 2017\\Projects\\HelloWorld\\HelloWorld\\HelloW" +
-        "orld\\QuotesPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Stefan\\Documents\\Source\\HelloWorld\\HelloWorld\\QuotesPage.xaml")]
     public partial class QuotesPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
