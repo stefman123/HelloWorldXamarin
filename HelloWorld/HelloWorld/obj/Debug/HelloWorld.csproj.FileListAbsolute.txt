@@ -1,40 +1,3 @@
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.dll
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Platform.dll
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.dll
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.pdb
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.xml
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Platform.pdb
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.pdb
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.xml
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.MainPage.xaml.g.cs
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.App.xaml.g.cs
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Greetings.xaml.g.cs
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll.mdb
-c:\users\stefa\documents\onedrive\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.mdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Platform.pdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.MainPage.xaml.g.cs
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.App.xaml.g.cs
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Greetings.xaml.g.cs
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.QuotesPage.xaml.g.cs
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll.mdb
-C:\Users\stefa\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.mdb
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.dll
@@ -49,6 +12,8 @@ C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Main
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.App.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Greetings.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.QuotesPage.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.StackPage.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Welcome.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.InstaLook.xaml.g.cs

@@ -13,7 +13,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new QuotesPage();
+            MainPage = new InstaLook();
 
 
         }
