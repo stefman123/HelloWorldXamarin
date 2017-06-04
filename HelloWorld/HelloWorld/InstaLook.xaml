@@ -2,10 +2,19 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="HelloWorld.InstaLook">
-    
- <StackLayout>
- <Label>nyc_photographer</Label>
-        <Image Source="..\\HelloWorld\Mountain.jpg"></Image>
-     
- </StackLayout>   
+
+    <StackLayout>
+        <Label>nyc_photographer</Label>
+        <Image Source="http://lorempixel.com/1920/1080/nature/3/"></Image>
+        <StackLayout Orientation="Horizontal"  Spacing="20" Padding="10, 0" >
+            <Button Text="Like" TextColor="DodgerBlue" BorderRadius="0" BorderWidth="0" BackgroundColor="Transparent" BorderColor="Transparent"></Button>
+            <Button Text="Comment" TextColor="DodgerBlue" BackgroundColor="Transparent" BorderColor="Transparent"></Button>
+            <Button Text="Share" TextColor="DodgerBlue" BackgroundColor="Transparent" BorderColor="Transparent"></Button>
+        </StackLayout>
+        <StackLayout Padding="10, 0">
+            <BoxView Color="#f0f0f0"  HeightRequest="1" >sdgsdgvsv</BoxView>
+            <Label Text="700 likes" FontAttributes="Bold" />
+            <Label TextColor="#444" Text="This is a shot yesterday in Skanor, Sweden, when driving home, from a couple of days of work in Denmark." />
+        </StackLayout>
+    </StackLayout>
 </ContentPage>

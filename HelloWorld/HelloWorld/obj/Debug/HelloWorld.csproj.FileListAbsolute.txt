@@ -13,7 +13,12 @@ C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.App.
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Greetings.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.QuotesPage.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.StackPage.xaml.g.cs
-C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
-C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Welcome.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.InstaLook.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.PhoneGird.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.WelcomeGird.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.AddCreditAbsoluteLayout.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.RelaxAbsoluteLayout.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.AddCreditRelativeLayout.xaml.g.cs
