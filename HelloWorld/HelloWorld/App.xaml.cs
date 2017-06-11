@@ -13,7 +13,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new AddCreditRelativeLayout();
+            MainPage = new AirbnbListView();
 
 
         }

@@ -19,6 +19,9 @@ C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Phon
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.WelcomeGird.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.AddCreditAbsoluteLayout.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.RelaxAbsoluteLayout.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.AddCreditRelativeLayout.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.PhotoGallery.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.AirbnbListView.xaml.g.cs
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
 C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.AddCreditRelativeLayout.xaml.g.cs
+C:\Users\Stefan\Documents\Source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
